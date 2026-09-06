@@ -1,0 +1,5 @@
+# Rancho Negro — ranchonegrogt.com
+User-agent: *
+Allow: /
+
+Sitemap: https://ranchonegrogt.com/sitemap.xml
